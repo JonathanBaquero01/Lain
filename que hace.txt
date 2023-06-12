@@ -1,0 +1,7 @@
+Se adapta al diseño del sistema oeprativo
+Se conecta a la BD mysql workbench, agrega, edita y elimina datos, 
+tiene login
+grafica, grafica matematica normal y grafica de barras.
+obtiene fecha, no deja sacar una fecha superior a la actual
+enviar correos
+genera excel, llena las celdas de colores, pone letra en negrilla
