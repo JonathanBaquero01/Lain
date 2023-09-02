@@ -3,7 +3,8 @@ Practice SW for small hospital. Adapts to the design of the operating system It 
 
 IT CAN EDIT AN EXCEL FILE:
 
-![Untitled](https://github.com/JonathanBaquero01/Lain/assets/78324860/17019da5-e923-4268-b44e-1ee3f97d1ef0)
+![Untitled](https://github.com/JonathanBaquero01/Lain/assets/78324860/aa56caeb-24d0-4db9-9ae7-9e5181e9d7a4)
+
 
 LOGIN:
 
